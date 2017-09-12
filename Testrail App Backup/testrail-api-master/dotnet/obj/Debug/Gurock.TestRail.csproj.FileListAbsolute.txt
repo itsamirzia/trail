@@ -1,0 +1,6 @@
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\obj\Debug\Gurock.TestRail.csprojResolveAssemblyReference.cache
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\bin\Debug\Gurock.TestRail.dll
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\bin\Debug\Gurock.TestRail.pdb
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\bin\Debug\Newtonsoft.Json.dll
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\obj\Debug\Gurock.TestRail.dll
+D:\AmirCode\ATS Code\testrail-api-master\dotnet\obj\Debug\Gurock.TestRail.pdb

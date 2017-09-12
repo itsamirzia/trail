@@ -1,0 +1,10 @@
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\TestRails_Integration.exe.config
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\TestRails_Integration.exe
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\TestRails_Integration.pdb
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\Gurock.TestRail.dll
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\Newtonsoft.Json.dll
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\Gurock.TestRail.pdb
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\obj\Debug\TestRails_Integration.csprojResolveAssemblyReference.cache
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\obj\Debug\TestRails_Integration.exe
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\obj\Debug\TestRails_Integration.pdb
+D:\AmirCode\ATS Code\testrail-api-master\TestRails_Integration\bin\Debug\Newtonsoft.Json.xml
